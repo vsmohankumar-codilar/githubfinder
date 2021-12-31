@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import moment from 'moment';
 import './App.css';
-// import './githubapi.css'
 
 import Logo from './icon-search.svg';
 import Company from './company.svg';
